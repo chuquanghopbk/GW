@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<servers>
+	<server name="server" started="true" hostAddress="10.58.137.14" hostPort="14000" ipChannelType="0" extraHostAddresseSize="0">
+		<associations>
+			<string value="serverAssociation_141"/>
+			<string value="serverAssociation_142"/>
+			<string value="serverAssociation_151"/>
+			<string value="serverAssociation_152"/>
+			<string value="serverAssociation_161"/>
+			<string value="serverAssociation_162"/>
+			<string value="serverAssociation_301"/>
+			<string value="serverAssociation_302"/>
+			<string value="serverAssociation_311"/>
+			<string value="serverAssociation_312"/>
+		</associations>
+	</server>
+</servers>
+<associations>
+	<name value="serverAssociation_141"/>
+	<association name="serverAssociation_141" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="10.58.137.14" peerPort="14114" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_142"/>
+	<association name="serverAssociation_142" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="10.58.137.14" peerPort="14214" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_151"/>
+	<association name="serverAssociation_151" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="10.58.137.15" peerPort="15114" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_152"/>
+	<association name="serverAssociation_152" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="10.58.137.15" peerPort="15214" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_161"/>
+	<association name="serverAssociation_161" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="10.58.137.16" peerPort="16114" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_162"/>
+	<association name="serverAssociation_162" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="10.58.137.16" peerPort="16214" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_301"/>
+	<association name="serverAssociation_301" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="10.58.137.30" peerPort="30114" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_302"/>
+	<association name="serverAssociation_302" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="10.58.137.30" peerPort="30214" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_311"/>
+	<association name="serverAssociation_311" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="10.58.137.31" peerPort="31114" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_312"/>
+	<association name="serverAssociation_312" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="10.58.137.31" peerPort="31214" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="ASSOC_1358_2000"/>
+	<association name="ASSOC_1358_2000" assoctype="CLIENT" hostAddress="10.50.15.1" hostPort="2901" peerAddress="10.49.96.37" peerPort="2905" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="ASSOC_1358_2100"/>
+	<association name="ASSOC_1358_2100" assoctype="CLIENT" hostAddress="10.50.15.65" hostPort="2933" peerAddress="10.48.96.37" peerPort="2905" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="ASSOC_1358_1321"/>
+	<association name="ASSOC_1358_1321" assoctype="CLIENT" hostAddress="10.50.15.1" hostPort="2965" peerAddress="10.50.96.105" peerPort="2905" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="ASSOC_1358_1322"/>
+	<association name="ASSOC_1358_1322" assoctype="CLIENT" hostAddress="10.50.15.65" hostPort="2997" peerAddress="10.50.97.105" peerPort="2905" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+</associations>

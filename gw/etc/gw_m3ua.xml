@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<aspFactoryList>
+	<aspFactory name="RASP141" assocName="serverAssociation_141" started="true" maxseqnumber="256" aspid="1" heartbeat="false"/>
+	<aspFactory name="RASP142" assocName="serverAssociation_142" started="true" maxseqnumber="256" aspid="2" heartbeat="false"/>
+	<aspFactory name="RASP151" assocName="serverAssociation_151" started="true" maxseqnumber="256" aspid="7" heartbeat="false"/>
+	<aspFactory name="RASP152" assocName="serverAssociation_152" started="true" maxseqnumber="256" aspid="8" heartbeat="false"/>
+	<aspFactory name="RASP161" assocName="serverAssociation_161" started="true" maxseqnumber="256" aspid="9" heartbeat="false"/>
+	<aspFactory name="RASP162" assocName="serverAssociation_162" started="true" maxseqnumber="256" aspid="10" heartbeat="false"/>
+	<aspFactory name="RASP301" assocName="serverAssociation_301" started="true" maxseqnumber="256" aspid="11" heartbeat="false"/>
+	<aspFactory name="RASP302" assocName="serverAssociation_302" started="true" maxseqnumber="256" aspid="12" heartbeat="false"/>
+	<aspFactory name="RASP311" assocName="serverAssociation_311" started="true" maxseqnumber="256" aspid="13" heartbeat="false"/>
+	<aspFactory name="RASP312" assocName="serverAssociation_312" started="true" maxseqnumber="256" aspid="14" heartbeat="false"/>
+	<aspFactory name="ASP1358_2000" assocName="ASSOC_1358_2000" started="true" maxseqnumber="256" aspid="101" heartbeat="false"/>
+	<aspFactory name="ASP1358_2100" assocName="ASSOC_1358_2100" started="true" maxseqnumber="256" aspid="109" heartbeat="false"/>
+	<aspFactory name="ASP1358_1321" assocName="ASSOC_1358_1321" started="true" maxseqnumber="256" aspid="117" heartbeat="false"/>
+	<aspFactory name="ASP1358_1322" assocName="ASSOC_1358_1322" started="true" maxseqnumber="256" aspid="125" heartbeat="false"/>
+</aspFactoryList>
+<asList>
+	<as name="RAS141" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="RASP141"/>
+		</asps>
+	</as>
+	<as name="RAS142" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="RASP142"/>
+		</asps>
+	</as>
+	<as name="RAS151" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="RASP151"/>
+		</asps>
+	</as>
+	<as name="RAS152" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="RASP152"/>
+		</asps>
+	</as>
+	<as name="RAS161" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="RASP161"/>
+		</asps>
+	</as>
+	<as name="RAS162" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="RASP162"/>
+		</asps>
+	</as>
+	<as name="RAS301" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="RASP301"/>
+		</asps>
+	</as>
+	<as name="RAS302" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="RASP302"/>
+		</asps>
+	</as>
+	<as name="RAS311" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="RASP311"/>
+		</asps>
+	</as>
+	<as name="RAS312" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="RASP312"/>
+		</asps>
+	</as>
+	<as name="AS1358_2000" minAspActiveForLb="1" functionality="AS" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="ASP1358_2000"/>
+		</asps>
+	</as>
+	<as name="AS1358_2100" minAspActiveForLb="1" functionality="AS" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="ASP1358_2100"/>
+		</asps>
+	</as>
+	<as name="AS1358_1321" minAspActiveForLb="1" functionality="AS" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="ASP1358_1321"/>
+		</asps>
+	</as>
+	<as name="AS1358_1322" minAspActiveForLb="1" functionality="AS" exchangeType="SE" ipspType="CLIENT">
+		<routingContext size="1">
+			<rc value="100"/>
+		</routingContext>
+		<trafficMode mode="2"/>
+		<defTrafficMode mode="2"/>
+		<asps>
+			<asp name="ASP1358_1322"/>
+		</asps>
+	</as>
+</asList>
+<route>
+	<key value="141:140:-1"/>
+	<value value="RAS141"/>
+	<key value="142:140:-1"/>
+	<value value="RAS142"/>
+	<key value="151:140:-1"/>
+	<value value="RAS151"/>
+	<key value="152:140:-1"/>
+	<value value="RAS152"/>
+	<key value="161:140:-1"/>
+	<value value="RAS161"/>
+	<key value="162:140:-1"/>
+	<value value="RAS162"/>
+	<key value="301:140:-1"/>
+	<value value="RAS301"/>
+	<key value="302:140:-1"/>
+	<value value="RAS302"/>
+	<key value="311:140:-1"/>
+	<value value="RAS311"/>
+	<key value="312:140:-1"/>
+	<value value="RAS312"/>
+	<key value="2000:1358:-1"/>
+	<value value="AS1358_2000"/>
+	<key value="2100:1358:-1"/>
+	<value value="AS1358_2100"/>
+	<key value="1321:1358:-1"/>
+	<value value="AS1358_1321"/>
+	<key value="1322:1358:-1"/>
+	<value value="AS1358_1322"/>
+</route>

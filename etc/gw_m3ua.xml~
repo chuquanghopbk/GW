@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<aspFactoryList>
+   
+	
+    <aspFactory name="ASP9881" assocName="serverAssociation_9881" started="true" maxseqnumber="256" aspid="1" heartbeat="false"/>
+    <aspFactory name="ASP9882" assocName="serverAssociation_9882" started="true" maxseqnumber="256" aspid="2" heartbeat="false"/>
+    <aspFactory name="ASP9891" assocName="serverAssociation_9891" started="true" maxseqnumber="256" aspid="3" heartbeat="false"/>
+    <aspFactory name="ASP9892" assocName="serverAssociation_9892" started="true" maxseqnumber="256" aspid="4" heartbeat="false"/>
+
+	
+    <aspFactory name="ASP4455_4294" assocName="ussd_4455_4294" started="true" maxseqnumber="256" aspid="100" heartbeat="false"/>
+    <aspFactory name="ASP4455_4797" assocName="ussd_4455_4797" started="true" maxseqnumber="256" aspid="101" heartbeat="false"/>
+
+	
+</aspFactoryList>
+<asList>
+	
+	
+    <as name="AS981" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+        <routingContext size="1">
+            <rc value="100"/>
+        </routingContext>
+        <trafficMode mode="2"/>
+        <defTrafficMode mode="2"/>
+        <asps>
+            <asp name="ASP9881"/>
+        </asps>
+    </as>"
+    <as name="AS982" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+        <routingContext size="1">
+            <rc value="100"/>
+        </routingContext>
+        <trafficMode mode="2"/>
+        <defTrafficMode mode="2"/>
+        <asps>
+            <asp name="ASP9882"/>
+        </asps>
+    </as>"
+    <as name="AS991" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+        <routingContext size="1">
+            <rc value="100"/>
+        </routingContext>
+        <trafficMode mode="2"/>
+        <defTrafficMode mode="2"/>
+        <asps>
+            <asp name="ASP9891"/>
+        </asps>
+    </as>"
+    <as name="AS992" minAspActiveForLb="1" functionality="SGW" exchangeType="SE" ipspType="CLIENT">
+        <routingContext size="1">
+            <rc value="100"/>
+        </routingContext>
+        <trafficMode mode="2"/>
+        <defTrafficMode mode="2"/>
+        <asps>
+            <asp name="ASP9892"/>
+        </asps>
+    </as>"
+
+
+ 
+    <as name="AS4455_4294" minAspActiveForLb="1" functionality="AS" exchangeType="SE" ipspType="CLIENT">
+        <routingContext size="1">
+            <rc value="100"/>
+        </routingContext>
+        <trafficMode mode="2"/>
+        <defTrafficMode mode="2"/>
+        <asps>
+            <asp name="ASP4455_4294"/>
+        </asps>
+    </as>
+    <as name="AS4455_4797" minAspActiveForLb="1" functionality="AS" exchangeType="SE" ipspType="CLIENT">
+        <routingContext size="1">
+            <rc value="100"/>
+        </routingContext>
+        <trafficMode mode="2"/>
+        <defTrafficMode mode="2"/>
+        <asps>
+            <asp name="ASP4455_4797"/>
+        </asps>
+    </as>
+ 
+</asList>
+<route>
+    <key value="981:980:-1"/>
+    <value value="AS981"/>
+    <key value="982:980:-1"/>
+    <value value="AS982"/>
+    <key value="991:980:-1"/>
+    <value value="AS991"/>
+    <key value="992:980:-1"/>
+    <value value="AS992"/>
+    <key value="4294:4455:-1"/>
+    <value value="AS4455_4294"/>
+    <key value="4797:4455:-1"/>
+    <value value="AS4455_4797"/>
+
+</route>

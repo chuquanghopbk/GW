@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-Description: Mobicents :: Parent pom for 2.x releases
+Implementation-Title: org.mobicents.protocols.ss7.map:gw_mo
+Bundle-License: http://www.gnu.org/licenses/lgpl.html
+Bundle-SymbolicName: org.mobicents.protocols.ss7.map.gw_mo
+Implementation-Version: 2.0.0.CR2
+Built-By: ussd
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1465281715915
+Implementation-Vendor-Id: TeleStax, Inc.
+Tool: Bnd-1.15.0
+Bundle-Version: 2.0.0.CR2
+Bundle-Name: Mobicents SS7 :: USSD :: GW :: gw_mo
+Created-By: Apache Maven Bundle Plugin
+Implementation-URL: http://www.mobicents.org
+Build-Jdk: 1.8.0_91
+

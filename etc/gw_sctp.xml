@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<servers>
+	<server name="server" started="true" hostAddress="127.0.0.1" hostPort="9800" ipChannelType="0" extraHostAddresseSize="0">
+		<associations>
+			<string value="serverAssociation_9881"/>
+			<string value="serverAssociation_9882"/>
+			<string value="serverAssociation_9891"/>
+			<string value="serverAssociation_9892"/>
+		</associations>
+	</server>
+</servers>
+<associations>
+	<name value="serverAssociation_9881"/>
+	<association name="serverAssociation_9881" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="127.0.0.1" peerPort="9881" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_9882"/>
+	<association name="serverAssociation_9882" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="127.0.0.1" peerPort="9882" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_9891"/>
+	<association name="serverAssociation_9891" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="127.0.0.1" peerPort="9891" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="serverAssociation_9892"/>
+	<association name="serverAssociation_9892" assoctype="SERVER" hostAddress="" hostPort="0" peerAddress="127.0.0.1" peerPort="9892" serverName="server" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="ussd_4455_4294"/>
+	<association name="ussd_4455_4294" assoctype="CLIENT" hostAddress="127.0.0.1" hostPort="2906" peerAddress="10.204.92.140" peerPort="2906" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="ussd_4455_4797"/>
+	<association name="ussd_4455_4797" assoctype="CLIENT" hostAddress="127.0.0.1" hostPort="2908" peerAddress="10.204.93.140" peerPort="2908" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+</associations>

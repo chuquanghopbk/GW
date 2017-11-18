@@ -1,0 +1,3448 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rule>
+	<!--LOCAL_ZONE-->
+	<id value="1"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1" saddress="1">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608141"/>
+  </patternSccpAddress>
+ </value>
+<id value="2"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="2" saddress="2">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608142"/>
+  </patternSccpAddress>
+ </value>
+<id value="3"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="3" saddress="3">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608151"/>
+  </patternSccpAddress>
+ </value>
+<id value="4"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="4" saddress="4">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608152"/>
+  </patternSccpAddress>
+ </value>
+<id value="5"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="5" saddress="5">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608161"/>
+  </patternSccpAddress>
+ </value>
+<id value="6"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="6" saddress="6">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608162"/>
+  </patternSccpAddress>
+ </value>
+<id value="7"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="7" saddress="7">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608301"/>
+  </patternSccpAddress>
+ </value>
+<id value="8"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="8" saddress="8">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608302"/>
+  </patternSccpAddress>
+ </value>
+<id value="9"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="9" saddress="9">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608311"/>
+  </patternSccpAddress>
+ </value>
+<id value="10"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="10" saddress="10">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608312"/>
+  </patternSccpAddress>
+ </value>	
+	
+	
+	<!--ALL_RULES-->
+	<id value="100"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="100" saddress="500">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201201"/>
+  </patternSccpAddress>
+ </value>
+<id value="101"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="101" saddress="501">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201202"/>
+  </patternSccpAddress>
+ </value>
+<id value="102"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="102" saddress="502">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201203"/>
+  </patternSccpAddress>
+ </value>
+<id value="103"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="103" saddress="503">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201204"/>
+  </patternSccpAddress>
+ </value>
+<id value="104"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="104" saddress="504">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201205"/>
+  </patternSccpAddress>
+ </value>
+<id value="105"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="105" saddress="505">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200301"/>
+  </patternSccpAddress>
+ </value>
+<id value="106"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="106" saddress="506">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200302"/>
+  </patternSccpAddress>
+ </value>
+<id value="107"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="107" saddress="507">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200303"/>
+  </patternSccpAddress>
+ </value>
+<id value="108"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="108" saddress="508">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200304"/>
+  </patternSccpAddress>
+ </value>
+<id value="109"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="109" saddress="509">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200305"/>
+  </patternSccpAddress>
+ </value>
+<id value="110"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="110" saddress="510">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200306"/>
+  </patternSccpAddress>
+ </value>
+<id value="111"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="111" saddress="511">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200307"/>
+  </patternSccpAddress>
+ </value>
+<id value="112"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="112" saddress="512">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200308"/>
+  </patternSccpAddress>
+ </value>
+<id value="113"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="113" saddress="513">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200309"/>
+  </patternSccpAddress>
+ </value>
+<id value="114"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="114" saddress="514">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200310"/>
+  </patternSccpAddress>
+ </value>
+<id value="115"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="115" saddress="515">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201011"/>
+  </patternSccpAddress>
+ </value>
+<id value="116"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="116" saddress="516">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201012"/>
+  </patternSccpAddress>
+ </value>
+<id value="117"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="117" saddress="517">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201013"/>
+  </patternSccpAddress>
+ </value>
+<id value="118"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="118" saddress="518">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201014"/>
+  </patternSccpAddress>
+ </value>
+<id value="119"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="119" saddress="519">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201015"/>
+  </patternSccpAddress>
+ </value>
+<id value="120"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="120" saddress="520">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201016"/>
+  </patternSccpAddress>
+ </value>
+<id value="121"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="121" saddress="521">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201017"/>
+  </patternSccpAddress>
+ </value>
+<id value="122"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="122" saddress="522">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201018"/>
+  </patternSccpAddress>
+ </value>
+<id value="123"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="123" saddress="523">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201019"/>
+  </patternSccpAddress>
+ </value>
+<id value="124"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="124" saddress="524">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201020"/>
+  </patternSccpAddress>
+ </value>
+<id value="125"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="125" saddress="525">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201021"/>
+  </patternSccpAddress>
+ </value>
+<id value="126"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="126" saddress="526">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201022"/>
+  </patternSccpAddress>
+ </value>
+<id value="127"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="127" saddress="527">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201023"/>
+  </patternSccpAddress>
+ </value>
+<id value="128"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="128" saddress="528">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201024"/>
+  </patternSccpAddress>
+ </value>
+<id value="129"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="129" saddress="529">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201025"/>
+  </patternSccpAddress>
+ </value>
+<id value="130"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="130" saddress="530">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201026"/>
+  </patternSccpAddress>
+ </value>
+<id value="131"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="131" saddress="531">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201027"/>
+  </patternSccpAddress>
+ </value>
+<id value="132"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="132" saddress="532">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201600"/>
+  </patternSccpAddress>
+ </value>
+<id value="133"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="133" saddress="533">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201601"/>
+  </patternSccpAddress>
+ </value>
+<id value="134"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="134" saddress="534">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201401"/>
+  </patternSccpAddress>
+ </value>
+<id value="135"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="135" saddress="535">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201402"/>
+  </patternSccpAddress>
+ </value>
+<id value="136"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="136" saddress="536">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201403"/>
+  </patternSccpAddress>
+ </value>
+<id value="137"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="137" saddress="537">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201404"/>
+  </patternSccpAddress>
+ </value>
+<id value="138"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="138" saddress="538">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201405"/>
+  </patternSccpAddress>
+ </value>
+<id value="139"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="139" saddress="539">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201407"/>
+  </patternSccpAddress>
+ </value>
+<id value="140"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="140" saddress="540">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201408"/>
+  </patternSccpAddress>
+ </value>
+<id value="141"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="141" saddress="541">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201409"/>
+  </patternSccpAddress>
+ </value>
+<id value="142"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="142" saddress="542">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201410"/>
+  </patternSccpAddress>
+ </value>
+<id value="143"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="143" saddress="543">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201411"/>
+  </patternSccpAddress>
+ </value>
+<id value="144"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="144" saddress="544">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201412"/>
+  </patternSccpAddress>
+ </value>
+<id value="145"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="145" saddress="545">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201413"/>
+  </patternSccpAddress>
+ </value>
+<id value="146"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="146" saddress="546">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201414"/>
+  </patternSccpAddress>
+ </value>
+<id value="147"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="147" saddress="547">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201415"/>
+  </patternSccpAddress>
+ </value>
+<id value="148"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="148" saddress="548">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201418"/>
+  </patternSccpAddress>
+ </value>
+<id value="149"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="149" saddress="549">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201419"/>
+  </patternSccpAddress>
+ </value>
+<id value="150"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="150" saddress="550">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201420"/>
+  </patternSccpAddress>
+ </value>
+<id value="151"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="151" saddress="551">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201421"/>
+  </patternSccpAddress>
+ </value>
+<id value="152"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="152" saddress="552">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200345"/>
+  </patternSccpAddress>
+ </value>
+<id value="153"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="153" saddress="553">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200346"/>
+  </patternSccpAddress>
+ </value>
+<id value="154"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="154" saddress="554">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200347"/>
+  </patternSccpAddress>
+ </value>
+<id value="155"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="155" saddress="555">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200349"/>
+  </patternSccpAddress>
+ </value>
+<id value="156"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="156" saddress="556">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202007"/>
+  </patternSccpAddress>
+ </value>
+<id value="157"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="157" saddress="557">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202008"/>
+  </patternSccpAddress>
+ </value>
+<id value="158"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="158" saddress="558">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202010"/>
+  </patternSccpAddress>
+ </value>
+<id value="159"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="159" saddress="559">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202011"/>
+  </patternSccpAddress>
+ </value>
+<id value="160"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="160" saddress="560">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202012"/>
+  </patternSccpAddress>
+ </value>
+<id value="161"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="161" saddress="561">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202014"/>
+  </patternSccpAddress>
+ </value>
+<id value="162"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="162" saddress="562">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202015"/>
+  </patternSccpAddress>
+ </value>
+<id value="163"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="163" saddress="563">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202016"/>
+  </patternSccpAddress>
+ </value>
+<id value="164"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="164" saddress="564">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202017"/>
+  </patternSccpAddress>
+ </value>
+<id value="165"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="165" saddress="565">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202018"/>
+  </patternSccpAddress>
+ </value>
+<id value="166"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="166" saddress="566">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200361"/>
+  </patternSccpAddress>
+ </value>
+<id value="167"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="167" saddress="567">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200362"/>
+  </patternSccpAddress>
+ </value>
+<id value="168"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="168" saddress="568">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200367"/>
+  </patternSccpAddress>
+ </value>
+<id value="169"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="169" saddress="569">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203404"/>
+  </patternSccpAddress>
+ </value>
+<id value="170"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="170" saddress="570">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203405"/>
+  </patternSccpAddress>
+ </value>
+<id value="171"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="171" saddress="571">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203406"/>
+  </patternSccpAddress>
+ </value>
+<id value="172"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="172" saddress="572">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203407"/>
+  </patternSccpAddress>
+ </value>
+<id value="173"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="173" saddress="573">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203408"/>
+  </patternSccpAddress>
+ </value>
+<id value="174"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="174" saddress="574">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203409"/>
+  </patternSccpAddress>
+ </value>
+<id value="175"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="175" saddress="575">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203410"/>
+  </patternSccpAddress>
+ </value>
+<id value="176"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="176" saddress="576">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203411"/>
+  </patternSccpAddress>
+ </value>
+<id value="177"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="177" saddress="577">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203412"/>
+  </patternSccpAddress>
+ </value>
+<id value="178"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="178" saddress="578">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200363"/>
+  </patternSccpAddress>
+ </value>
+<id value="179"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="179" saddress="579">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200364"/>
+  </patternSccpAddress>
+ </value>
+<id value="180"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="180" saddress="580">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200365"/>
+  </patternSccpAddress>
+ </value>
+<id value="181"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="181" saddress="581">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200366"/>
+  </patternSccpAddress>
+ </value>
+<id value="182"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="182" saddress="582">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203205"/>
+  </patternSccpAddress>
+ </value>
+<id value="183"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="183" saddress="583">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203206"/>
+  </patternSccpAddress>
+ </value>
+<id value="184"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="184" saddress="584">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203207"/>
+  </patternSccpAddress>
+ </value>
+<id value="185"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="185" saddress="585">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203208"/>
+  </patternSccpAddress>
+ </value>
+<id value="186"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="186" saddress="586">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203209"/>
+  </patternSccpAddress>
+ </value>
+<id value="187"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="187" saddress="587">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203210"/>
+  </patternSccpAddress>
+ </value>
+<id value="188"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="188" saddress="588">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203211"/>
+  </patternSccpAddress>
+ </value>
+ 
+ 
+ <id value="1000"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1000" saddress="1500">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84983??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1001"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1001" saddress="1501">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84985??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1002"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1002" saddress="1502">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84988??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1003"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1003" saddress="1503">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84989??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1004"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1004" saddress="1504">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841682??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1005"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1005" saddress="1505">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841683??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1006"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1006" saddress="1506">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841698??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1007"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1007" saddress="1507">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841699??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1008"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1008" saddress="1508">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841663??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1009"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1009" saddress="1509">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841662??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1010"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1010" saddress="1510">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84975??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1011"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1011" saddress="1511">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84976??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1012"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1012" saddress="1512">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84978??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1013"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1013" saddress="1513">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84982??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1014"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1014" saddress="1514">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84984??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1015"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1015" saddress="1515">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84986??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1016"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1016" saddress="1516">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841672??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1017"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1017" saddress="1517">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841673??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1018"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1018" saddress="1518">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84987??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1019"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1019" saddress="1519">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84977??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1020"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1020" saddress="1520">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84979??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1021"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1021" saddress="1521">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841697??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1022"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1022" saddress="1522">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841696??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1023"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1023" saddress="1523">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841695??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1024"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1024" saddress="1524">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841694??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1025"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1025" saddress="1525">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841666??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1026"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1026" saddress="1526">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841679??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1027"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1027" saddress="1527">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841678??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1028"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1028" saddress="1528">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841687??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1029"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1029" saddress="1529">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841688??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1030"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1030" saddress="1530">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841689??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1031"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1031" saddress="1531">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841686??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1032"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1032" saddress="1532">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841685??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1033"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1033" saddress="1533">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841684??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1034"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1034" saddress="1534">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841664??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1035"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1035" saddress="1535">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841665??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1036"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1036" saddress="1536">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841674??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1037"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1037" saddress="1537">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841675??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1038"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1038" saddress="1538">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84972??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1039"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1039" saddress="1539">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84973??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1040"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1040" saddress="1540">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84974??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1041"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1041" saddress="1541">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841693??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1042"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1042" saddress="1542">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841692??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1043"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1043" saddress="1543">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841669??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1044"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1044" saddress="1544">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841668??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1045"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1045" saddress="1545">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841667??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1046"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1046" saddress="1546">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841677??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1047"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1047" saddress="1547">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841676??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1048"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1048" saddress="1548">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841652??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1049"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1049" saddress="1549">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841653??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1050"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1050" saddress="1550">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841654??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1051"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1051" saddress="1551">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841655??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1052"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1052" saddress="1552">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841656??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1053"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1053" saddress="1553">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841657??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1054"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1054" saddress="1554">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841658??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1055"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1055" saddress="1555">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841659??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1056"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1056" saddress="1556">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841648??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1057"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1057" saddress="1557">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841649??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1058"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1058" saddress="1558">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="842??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1059"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1059" saddress="1559">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="843??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1060"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1060" saddress="1560">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="844??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1061"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1061" saddress="1561">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="845??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1062"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1062" saddress="1562">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="846??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1063"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1063" saddress="1563">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="847??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1064"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1064" saddress="1564">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="848??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1065"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1065" saddress="1565">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841636??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1066"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1066" saddress="1566">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841637??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1067"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1067" saddress="1567">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841638??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1068"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1068" saddress="1568">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841639??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1069"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1069" saddress="1569">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841642??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1070"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1070" saddress="1570">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841643??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1071"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1071" saddress="1571">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841644??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1072"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1072" saddress="1572">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841645??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1073"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1073" saddress="1573">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841646??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1074"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1074" saddress="1574">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841647??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1075"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1075" saddress="1575">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841632??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1076"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1076" saddress="1576">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841633??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1077"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1077" saddress="1577">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841634??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1078"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1078" saddress="1578">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841635??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1079"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1079" saddress="1579">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841626??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1080"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1080" saddress="1580">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841627??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1081"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1081" saddress="1581">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841628??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1082"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1082" saddress="1582">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841629??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1083"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1083" saddress="1583">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84962??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1084"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1084" saddress="1584">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84963??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1085"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1085" saddress="1585">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84964??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1086"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1086" saddress="1586">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84965??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1087"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1087" saddress="1587">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84966??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1088"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1088" saddress="1588">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84967??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1089"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1089" saddress="1589">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84968??????"/>
+  </patternSccpAddress>
+ </value>
+<id value="1090"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="1090" saddress="1590">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84969??????"/>
+  </patternSccpAddress>
+ </value>
+
+
+
+	<!--ALL RULES-->
+	
+	<id value="2000"/>
+	<value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="2000" saddress="2004">
+		<patternSccpAddress pc="0" ssn="8">
+			<ai value="18"/>
+			<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200???"/>
+		</patternSccpAddress>
+	</value>
+	<id value="2001"/>
+	<value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="2001" saddress="2005">
+		<patternSccpAddress pc="0" ssn="8">
+			<ai value="18"/>
+			<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201???"/>
+		</patternSccpAddress>
+	</value>
+	<id value="2002"/>
+	<value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="2002" saddress="2006">
+		<patternSccpAddress pc="0" ssn="8">
+			<ai value="18"/>
+			<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202???"/>
+		</patternSccpAddress>
+	</value>
+	<id value="2003"/>
+	<value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="2003" saddress="2007">
+		<patternSccpAddress pc="0" ssn="8">
+			<ai value="18"/>
+			<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203???"/>
+		</patternSccpAddress>
+	</value>
+	
+	<id value="2008"/>
+	<value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="2008" saddress="2008">
+		<patternSccpAddress pc="0" ssn="8">
+			<ai value="18"/>
+			<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8498020????"/>
+		</patternSccpAddress>
+	</value>
+	
+	 <id value="189"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="189" saddress="589">
+  <patternSccpAddress pc="0" ssn="8">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="*"/>
+  </patternSccpAddress>
+ </value>
+	
+	<id value="2009"/>
+	<value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="2009" saddress="2013">
+		<patternSccpAddress pc="0" ssn="6">
+			<ai value="18"/>
+			<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8498???????"/>
+		</patternSccpAddress>
+	</value>
+	<id value="2010"/>
+	<value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="2010" saddress="2014">
+		<patternSccpAddress pc="0" ssn="6">
+			<ai value="18"/>
+			<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8416????????"/>
+		</patternSccpAddress>
+	</value>
+	<id value="2011"/>
+	<value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="2011" saddress="2015">
+		<patternSccpAddress pc="0" ssn="6">
+			<ai value="18"/>
+			<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8497???????"/>
+		</patternSccpAddress>
+	</value>
+	<id value="2012"/>
+	<value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="K" paddress="2012" saddress="2016">
+		<patternSccpAddress pc="0" ssn="6">
+			<ai value="18"/>
+			<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8496???????"/>
+		</patternSccpAddress>
+	</value>
+	
+	<id value="1091"/>
+ <value ruleType="Solitary" loadSharingAlgo="Undefined" originatingType="All" mask="R" paddress="1091" saddress="1591">
+  <patternSccpAddress pc="0" ssn="6">
+   <ai value="18"/>
+   <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="*"/>
+  </patternSccpAddress>
+ </value>
+
+</rule>
+<routingAddress>
+	<!--LOCAL_ZONE-->
+	<id value="1"/>
+ <sccpAddress pc="141" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608141"/>
+ </sccpAddress>
+<id value="2"/>
+ <sccpAddress pc="142" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608142"/>
+ </sccpAddress>
+<id value="3"/>
+ <sccpAddress pc="151" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608151"/>
+ </sccpAddress>
+<id value="4"/>
+ <sccpAddress pc="152" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608152"/>
+ </sccpAddress>
+<id value="5"/>
+ <sccpAddress pc="161" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608161"/>
+ </sccpAddress>
+<id value="6"/>
+ <sccpAddress pc="162" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608162"/>
+ </sccpAddress>
+<id value="7"/>
+ <sccpAddress pc="301" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608301"/>
+ </sccpAddress>
+<id value="8"/>
+ <sccpAddress pc="302" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608302"/>
+ </sccpAddress>
+<id value="9"/>
+ <sccpAddress pc="311" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608311"/>
+ </sccpAddress>
+<id value="10"/>
+ <sccpAddress pc="312" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200608312"/>
+ </sccpAddress>
+
+	<!--ALL ROUTING ADDRESS-->
+	<id value="100"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201201"/>
+ </sccpAddress>
+<id value="101"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201202"/>
+ </sccpAddress>
+<id value="102"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201203"/>
+ </sccpAddress>
+<id value="103"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201204"/>
+ </sccpAddress>
+<id value="104"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201205"/>
+ </sccpAddress>
+<id value="105"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200301"/>
+ </sccpAddress>
+<id value="106"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200302"/>
+ </sccpAddress>
+<id value="107"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200303"/>
+ </sccpAddress>
+<id value="108"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200304"/>
+ </sccpAddress>
+<id value="109"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200305"/>
+ </sccpAddress>
+<id value="110"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200306"/>
+ </sccpAddress>
+<id value="111"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200307"/>
+ </sccpAddress>
+<id value="112"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200308"/>
+ </sccpAddress>
+<id value="113"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200309"/>
+ </sccpAddress>
+<id value="114"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200310"/>
+ </sccpAddress>
+<id value="115"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201011"/>
+ </sccpAddress>
+<id value="116"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201012"/>
+ </sccpAddress>
+<id value="117"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201013"/>
+ </sccpAddress>
+<id value="118"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201014"/>
+ </sccpAddress>
+<id value="119"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201015"/>
+ </sccpAddress>
+<id value="120"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201016"/>
+ </sccpAddress>
+<id value="121"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201017"/>
+ </sccpAddress>
+<id value="122"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201018"/>
+ </sccpAddress>
+<id value="123"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201019"/>
+ </sccpAddress>
+<id value="124"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201020"/>
+ </sccpAddress>
+<id value="125"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201021"/>
+ </sccpAddress>
+<id value="126"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201022"/>
+ </sccpAddress>
+<id value="127"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201023"/>
+ </sccpAddress>
+<id value="128"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201024"/>
+ </sccpAddress>
+<id value="129"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201025"/>
+ </sccpAddress>
+<id value="130"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201026"/>
+ </sccpAddress>
+<id value="131"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201027"/>
+ </sccpAddress>
+<id value="132"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201600"/>
+ </sccpAddress>
+<id value="133"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201601"/>
+ </sccpAddress>
+<id value="134"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201401"/>
+ </sccpAddress>
+<id value="135"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201402"/>
+ </sccpAddress>
+<id value="136"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201403"/>
+ </sccpAddress>
+<id value="137"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201404"/>
+ </sccpAddress>
+<id value="138"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201405"/>
+ </sccpAddress>
+<id value="139"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201407"/>
+ </sccpAddress>
+<id value="140"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201408"/>
+ </sccpAddress>
+<id value="141"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201409"/>
+ </sccpAddress>
+<id value="142"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201410"/>
+ </sccpAddress>
+<id value="143"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201411"/>
+ </sccpAddress>
+<id value="144"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201412"/>
+ </sccpAddress>
+<id value="145"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201413"/>
+ </sccpAddress>
+<id value="146"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201414"/>
+ </sccpAddress>
+<id value="147"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201415"/>
+ </sccpAddress>
+<id value="148"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201418"/>
+ </sccpAddress>
+<id value="149"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201419"/>
+ </sccpAddress>
+<id value="150"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201420"/>
+ </sccpAddress>
+<id value="151"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201421"/>
+ </sccpAddress>
+<id value="152"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200345"/>
+ </sccpAddress>
+<id value="153"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200346"/>
+ </sccpAddress>
+<id value="154"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200347"/>
+ </sccpAddress>
+<id value="155"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200349"/>
+ </sccpAddress>
+<id value="156"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202007"/>
+ </sccpAddress>
+<id value="157"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202008"/>
+ </sccpAddress>
+<id value="158"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202010"/>
+ </sccpAddress>
+<id value="159"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202011"/>
+ </sccpAddress>
+<id value="160"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202012"/>
+ </sccpAddress>
+<id value="161"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202014"/>
+ </sccpAddress>
+<id value="162"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202015"/>
+ </sccpAddress>
+<id value="163"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202016"/>
+ </sccpAddress>
+<id value="164"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202017"/>
+ </sccpAddress>
+<id value="165"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202018"/>
+ </sccpAddress>
+<id value="166"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200361"/>
+ </sccpAddress>
+<id value="167"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200362"/>
+ </sccpAddress>
+<id value="168"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200367"/>
+ </sccpAddress>
+<id value="169"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203404"/>
+ </sccpAddress>
+<id value="170"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203405"/>
+ </sccpAddress>
+<id value="171"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203406"/>
+ </sccpAddress>
+<id value="172"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203407"/>
+ </sccpAddress>
+<id value="173"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203408"/>
+ </sccpAddress>
+<id value="174"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203409"/>
+ </sccpAddress>
+<id value="175"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203410"/>
+ </sccpAddress>
+<id value="176"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203411"/>
+ </sccpAddress>
+<id value="177"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203412"/>
+ </sccpAddress>
+<id value="178"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200363"/>
+ </sccpAddress>
+<id value="179"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200364"/>
+ </sccpAddress>
+<id value="180"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200365"/>
+ </sccpAddress>
+<id value="181"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200366"/>
+ </sccpAddress>
+<id value="182"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203205"/>
+ </sccpAddress>
+<id value="183"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203206"/>
+ </sccpAddress>
+<id value="184"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203207"/>
+ </sccpAddress>
+<id value="185"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203208"/>
+ </sccpAddress>
+<id value="186"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203209"/>
+ </sccpAddress>
+<id value="187"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203210"/>
+ </sccpAddress>
+<id value="188"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203211"/>
+ </sccpAddress>
+ 
+ <id value="189"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="*"/>
+ </sccpAddress>
+<id value="589"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="*"/>
+ </sccpAddress>
+ 
+<id value="500"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201201"/>
+ </sccpAddress>
+<id value="501"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201202"/>
+ </sccpAddress>
+<id value="502"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201203"/>
+ </sccpAddress>
+<id value="503"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201204"/>
+ </sccpAddress>
+<id value="504"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201205"/>
+ </sccpAddress>
+<id value="505"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200301"/>
+ </sccpAddress>
+<id value="506"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200302"/>
+ </sccpAddress>
+<id value="507"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200303"/>
+ </sccpAddress>
+<id value="508"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200304"/>
+ </sccpAddress>
+<id value="509"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200305"/>
+ </sccpAddress>
+<id value="510"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200306"/>
+ </sccpAddress>
+<id value="511"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200307"/>
+ </sccpAddress>
+<id value="512"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200308"/>
+ </sccpAddress>
+<id value="513"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200309"/>
+ </sccpAddress>
+<id value="514"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200310"/>
+ </sccpAddress>
+<id value="515"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201011"/>
+ </sccpAddress>
+<id value="516"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201012"/>
+ </sccpAddress>
+<id value="517"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201013"/>
+ </sccpAddress>
+<id value="518"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201014"/>
+ </sccpAddress>
+<id value="519"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201015"/>
+ </sccpAddress>
+<id value="520"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201016"/>
+ </sccpAddress>
+<id value="521"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201017"/>
+ </sccpAddress>
+<id value="522"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201018"/>
+ </sccpAddress>
+<id value="523"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201019"/>
+ </sccpAddress>
+<id value="524"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201020"/>
+ </sccpAddress>
+<id value="525"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201021"/>
+ </sccpAddress>
+<id value="526"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201022"/>
+ </sccpAddress>
+<id value="527"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201023"/>
+ </sccpAddress>
+<id value="528"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201024"/>
+ </sccpAddress>
+<id value="529"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201025"/>
+ </sccpAddress>
+<id value="530"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201026"/>
+ </sccpAddress>
+<id value="531"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201027"/>
+ </sccpAddress>
+<id value="532"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201600"/>
+ </sccpAddress>
+<id value="533"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201601"/>
+ </sccpAddress>
+<id value="534"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201401"/>
+ </sccpAddress>
+<id value="535"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201402"/>
+ </sccpAddress>
+<id value="536"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201403"/>
+ </sccpAddress>
+<id value="537"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201404"/>
+ </sccpAddress>
+<id value="538"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201405"/>
+ </sccpAddress>
+<id value="539"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201407"/>
+ </sccpAddress>
+<id value="540"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201408"/>
+ </sccpAddress>
+<id value="541"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201409"/>
+ </sccpAddress>
+<id value="542"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201410"/>
+ </sccpAddress>
+<id value="543"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201411"/>
+ </sccpAddress>
+<id value="544"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201412"/>
+ </sccpAddress>
+<id value="545"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201413"/>
+ </sccpAddress>
+<id value="546"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201414"/>
+ </sccpAddress>
+<id value="547"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201415"/>
+ </sccpAddress>
+<id value="548"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201418"/>
+ </sccpAddress>
+<id value="549"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201419"/>
+ </sccpAddress>
+<id value="550"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201420"/>
+ </sccpAddress>
+<id value="551"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201421"/>
+ </sccpAddress>
+<id value="552"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200345"/>
+ </sccpAddress>
+<id value="553"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200346"/>
+ </sccpAddress>
+<id value="554"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200347"/>
+ </sccpAddress>
+<id value="555"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200349"/>
+ </sccpAddress>
+<id value="556"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202007"/>
+ </sccpAddress>
+<id value="557"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202008"/>
+ </sccpAddress>
+<id value="558"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202010"/>
+ </sccpAddress>
+<id value="559"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202011"/>
+ </sccpAddress>
+<id value="560"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202012"/>
+ </sccpAddress>
+<id value="561"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202014"/>
+ </sccpAddress>
+<id value="562"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202015"/>
+ </sccpAddress>
+<id value="563"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202016"/>
+ </sccpAddress>
+<id value="564"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202017"/>
+ </sccpAddress>
+<id value="565"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202018"/>
+ </sccpAddress>
+<id value="566"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200361"/>
+ </sccpAddress>
+<id value="567"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200362"/>
+ </sccpAddress>
+<id value="568"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200367"/>
+ </sccpAddress>
+<id value="569"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203404"/>
+ </sccpAddress>
+<id value="570"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203405"/>
+ </sccpAddress>
+<id value="571"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203406"/>
+ </sccpAddress>
+<id value="572"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203407"/>
+ </sccpAddress>
+<id value="573"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203408"/>
+ </sccpAddress>
+<id value="574"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203409"/>
+ </sccpAddress>
+<id value="575"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203410"/>
+ </sccpAddress>
+<id value="576"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203411"/>
+ </sccpAddress>
+<id value="577"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203412"/>
+ </sccpAddress>
+<id value="578"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200363"/>
+ </sccpAddress>
+<id value="579"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200364"/>
+ </sccpAddress>
+<id value="580"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200365"/>
+ </sccpAddress>
+<id value="581"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200366"/>
+ </sccpAddress>
+<id value="582"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203205"/>
+ </sccpAddress>
+<id value="583"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203206"/>
+ </sccpAddress>
+<id value="584"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203207"/>
+ </sccpAddress>
+<id value="585"/>
+ <sccpAddress pc="2000" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203208"/>
+ </sccpAddress>
+<id value="586"/>
+ <sccpAddress pc="1322" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203209"/>
+ </sccpAddress>
+<id value="587"/>
+ <sccpAddress pc="1321" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203210"/>
+ </sccpAddress>
+<id value="588"/>
+ <sccpAddress pc="2100" ssn="8">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203211"/>
+ </sccpAddress>
+ 
+<id value="1000"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84983??????"/>
+ </sccpAddress>
+<id value="1001"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84985??????"/>
+ </sccpAddress>
+<id value="1002"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84988??????"/>
+ </sccpAddress>
+<id value="1003"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84989??????"/>
+ </sccpAddress>
+<id value="1004"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841682??????"/>
+ </sccpAddress>
+<id value="1005"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841683??????"/>
+ </sccpAddress>
+<id value="1006"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841698??????"/>
+ </sccpAddress>
+<id value="1007"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841699??????"/>
+ </sccpAddress>
+<id value="1008"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841663??????"/>
+ </sccpAddress>
+<id value="1009"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841662??????"/>
+ </sccpAddress>
+<id value="1010"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84975??????"/>
+ </sccpAddress>
+<id value="1011"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84976??????"/>
+ </sccpAddress>
+<id value="1012"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84978??????"/>
+ </sccpAddress>
+<id value="1013"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84982??????"/>
+ </sccpAddress>
+<id value="1014"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84984??????"/>
+ </sccpAddress>
+<id value="1015"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84986??????"/>
+ </sccpAddress>
+<id value="1016"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841672??????"/>
+ </sccpAddress>
+<id value="1017"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841673??????"/>
+ </sccpAddress>
+<id value="1018"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84987??????"/>
+ </sccpAddress>
+<id value="1019"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84977??????"/>
+ </sccpAddress>
+<id value="1020"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84979??????"/>
+ </sccpAddress>
+<id value="1021"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841697??????"/>
+ </sccpAddress>
+<id value="1022"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841696??????"/>
+ </sccpAddress>
+<id value="1023"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841695??????"/>
+ </sccpAddress>
+<id value="1024"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841694??????"/>
+ </sccpAddress>
+<id value="1025"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841666??????"/>
+ </sccpAddress>
+<id value="1026"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841679??????"/>
+ </sccpAddress>
+<id value="1027"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841678??????"/>
+ </sccpAddress>
+<id value="1028"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841687??????"/>
+ </sccpAddress>
+<id value="1029"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841688??????"/>
+ </sccpAddress>
+<id value="1030"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841689??????"/>
+ </sccpAddress>
+<id value="1031"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841686??????"/>
+ </sccpAddress>
+<id value="1032"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841685??????"/>
+ </sccpAddress>
+<id value="1033"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841684??????"/>
+ </sccpAddress>
+<id value="1034"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841664??????"/>
+ </sccpAddress>
+<id value="1035"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841665??????"/>
+ </sccpAddress>
+<id value="1036"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841674??????"/>
+ </sccpAddress>
+<id value="1037"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841675??????"/>
+ </sccpAddress>
+<id value="1038"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84972??????"/>
+ </sccpAddress>
+<id value="1039"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84973??????"/>
+ </sccpAddress>
+<id value="1040"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84974??????"/>
+ </sccpAddress>
+<id value="1041"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841693??????"/>
+ </sccpAddress>
+<id value="1042"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841692??????"/>
+ </sccpAddress>
+<id value="1043"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841669??????"/>
+ </sccpAddress>
+<id value="1044"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841668??????"/>
+ </sccpAddress>
+<id value="1045"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841667??????"/>
+ </sccpAddress>
+<id value="1046"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841677??????"/>
+ </sccpAddress>
+<id value="1047"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841676??????"/>
+ </sccpAddress>
+<id value="1048"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841652??????"/>
+ </sccpAddress>
+<id value="1049"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841653??????"/>
+ </sccpAddress>
+<id value="1050"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841654??????"/>
+ </sccpAddress>
+<id value="1051"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841655??????"/>
+ </sccpAddress>
+<id value="1052"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841656??????"/>
+ </sccpAddress>
+<id value="1053"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841657??????"/>
+ </sccpAddress>
+<id value="1054"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841658??????"/>
+ </sccpAddress>
+<id value="1055"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841659??????"/>
+ </sccpAddress>
+<id value="1056"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841648??????"/>
+ </sccpAddress>
+<id value="1057"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841649??????"/>
+ </sccpAddress>
+<id value="1058"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="842??????"/>
+ </sccpAddress>
+<id value="1059"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="843??????"/>
+ </sccpAddress>
+<id value="1060"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="844??????"/>
+ </sccpAddress>
+<id value="1061"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="845??????"/>
+ </sccpAddress>
+<id value="1062"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="846??????"/>
+ </sccpAddress>
+<id value="1063"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="847??????"/>
+ </sccpAddress>
+<id value="1064"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="848??????"/>
+ </sccpAddress>
+<id value="1065"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841636??????"/>
+ </sccpAddress>
+<id value="1066"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841637??????"/>
+ </sccpAddress>
+<id value="1067"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841638??????"/>
+ </sccpAddress>
+<id value="1068"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841639??????"/>
+ </sccpAddress>
+<id value="1069"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841642??????"/>
+ </sccpAddress>
+<id value="1070"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841643??????"/>
+ </sccpAddress>
+<id value="1071"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841644??????"/>
+ </sccpAddress>
+<id value="1072"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841645??????"/>
+ </sccpAddress>
+<id value="1073"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841646??????"/>
+ </sccpAddress>
+<id value="1074"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841647??????"/>
+ </sccpAddress>
+<id value="1075"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841632??????"/>
+ </sccpAddress>
+<id value="1076"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841633??????"/>
+ </sccpAddress>
+<id value="1077"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841634??????"/>
+ </sccpAddress>
+<id value="1078"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841635??????"/>
+ </sccpAddress>
+<id value="1079"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841626??????"/>
+ </sccpAddress>
+<id value="1080"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841627??????"/>
+ </sccpAddress>
+<id value="1081"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841628??????"/>
+ </sccpAddress>
+<id value="1082"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841629??????"/>
+ </sccpAddress>
+<id value="1083"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84962??????"/>
+ </sccpAddress>
+<id value="1084"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84963??????"/>
+ </sccpAddress>
+<id value="1085"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84964??????"/>
+ </sccpAddress>
+<id value="1086"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84965??????"/>
+ </sccpAddress>
+<id value="1087"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84966??????"/>
+ </sccpAddress>
+<id value="1088"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84967??????"/>
+ </sccpAddress>
+<id value="1089"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84968??????"/>
+ </sccpAddress>
+<id value="1090"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84969??????"/>
+ </sccpAddress>
+<id value="1500"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84983??????"/>
+ </sccpAddress>
+<id value="1501"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84985??????"/>
+ </sccpAddress>
+<id value="1502"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84988??????"/>
+ </sccpAddress>
+<id value="1503"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84989??????"/>
+ </sccpAddress>
+<id value="1504"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841682??????"/>
+ </sccpAddress>
+<id value="1505"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841683??????"/>
+ </sccpAddress>
+<id value="1506"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841698??????"/>
+ </sccpAddress>
+<id value="1507"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841699??????"/>
+ </sccpAddress>
+<id value="1508"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841663??????"/>
+ </sccpAddress>
+<id value="1509"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841662??????"/>
+ </sccpAddress>
+<id value="1510"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84975??????"/>
+ </sccpAddress>
+<id value="1511"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84976??????"/>
+ </sccpAddress>
+<id value="1512"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84978??????"/>
+ </sccpAddress>
+<id value="1513"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84982??????"/>
+ </sccpAddress>
+<id value="1514"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84984??????"/>
+ </sccpAddress>
+<id value="1515"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84986??????"/>
+ </sccpAddress>
+<id value="1516"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841672??????"/>
+ </sccpAddress>
+<id value="1517"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841673??????"/>
+ </sccpAddress>
+<id value="1518"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84987??????"/>
+ </sccpAddress>
+<id value="1519"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84977??????"/>
+ </sccpAddress>
+<id value="1520"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84979??????"/>
+ </sccpAddress>
+<id value="1521"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841697??????"/>
+ </sccpAddress>
+<id value="1522"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841696??????"/>
+ </sccpAddress>
+<id value="1523"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841695??????"/>
+ </sccpAddress>
+<id value="1524"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841694??????"/>
+ </sccpAddress>
+<id value="1525"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841666??????"/>
+ </sccpAddress>
+<id value="1526"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841679??????"/>
+ </sccpAddress>
+<id value="1527"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841678??????"/>
+ </sccpAddress>
+<id value="1528"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841687??????"/>
+ </sccpAddress>
+<id value="1529"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841688??????"/>
+ </sccpAddress>
+<id value="1530"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841689??????"/>
+ </sccpAddress>
+<id value="1531"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841686??????"/>
+ </sccpAddress>
+<id value="1532"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841685??????"/>
+ </sccpAddress>
+<id value="1533"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841684??????"/>
+ </sccpAddress>
+<id value="1534"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841664??????"/>
+ </sccpAddress>
+<id value="1535"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841665??????"/>
+ </sccpAddress>
+<id value="1536"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841674??????"/>
+ </sccpAddress>
+<id value="1537"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841675??????"/>
+ </sccpAddress>
+<id value="1538"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84972??????"/>
+ </sccpAddress>
+<id value="1539"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84973??????"/>
+ </sccpAddress>
+<id value="1540"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84974??????"/>
+ </sccpAddress>
+<id value="1541"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841693??????"/>
+ </sccpAddress>
+<id value="1542"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841692??????"/>
+ </sccpAddress>
+<id value="1543"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841669??????"/>
+ </sccpAddress>
+<id value="1544"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841668??????"/>
+ </sccpAddress>
+<id value="1545"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841667??????"/>
+ </sccpAddress>
+<id value="1546"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841677??????"/>
+ </sccpAddress>
+<id value="1547"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841676??????"/>
+ </sccpAddress>
+<id value="1548"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841652??????"/>
+ </sccpAddress>
+<id value="1549"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841653??????"/>
+ </sccpAddress>
+<id value="1550"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841654??????"/>
+ </sccpAddress>
+<id value="1551"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841655??????"/>
+ </sccpAddress>
+<id value="1552"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841656??????"/>
+ </sccpAddress>
+<id value="1553"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841657??????"/>
+ </sccpAddress>
+<id value="1554"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841658??????"/>
+ </sccpAddress>
+<id value="1555"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841659??????"/>
+ </sccpAddress>
+<id value="1556"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841648??????"/>
+ </sccpAddress>
+<id value="1557"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841649??????"/>
+ </sccpAddress>
+<id value="1558"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="842??????"/>
+ </sccpAddress>
+<id value="1559"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="843??????"/>
+ </sccpAddress>
+<id value="1560"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="844??????"/>
+ </sccpAddress>
+<id value="1561"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="845??????"/>
+ </sccpAddress>
+<id value="1562"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="846??????"/>
+ </sccpAddress>
+<id value="1563"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="847??????"/>
+ </sccpAddress>
+<id value="1564"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="848??????"/>
+ </sccpAddress>
+<id value="1565"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841636??????"/>
+ </sccpAddress>
+<id value="1566"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841637??????"/>
+ </sccpAddress>
+<id value="1567"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841638??????"/>
+ </sccpAddress>
+<id value="1568"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841639??????"/>
+ </sccpAddress>
+<id value="1569"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841642??????"/>
+ </sccpAddress>
+<id value="1570"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841643??????"/>
+ </sccpAddress>
+<id value="1571"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841644??????"/>
+ </sccpAddress>
+<id value="1572"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841645??????"/>
+ </sccpAddress>
+<id value="1573"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841646??????"/>
+ </sccpAddress>
+<id value="1574"/>
+ <sccpAddress pc="2000" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841647??????"/>
+ </sccpAddress>
+<id value="1575"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841632??????"/>
+ </sccpAddress>
+<id value="1576"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841633??????"/>
+ </sccpAddress>
+<id value="1577"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841634??????"/>
+ </sccpAddress>
+<id value="1578"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841635??????"/>
+ </sccpAddress>
+<id value="1579"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841626??????"/>
+ </sccpAddress>
+<id value="1580"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841627??????"/>
+ </sccpAddress>
+<id value="1581"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841628??????"/>
+ </sccpAddress>
+<id value="1582"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="841629??????"/>
+ </sccpAddress>
+<id value="1583"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84962??????"/>
+ </sccpAddress>
+<id value="1584"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84963??????"/>
+ </sccpAddress>
+<id value="1585"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84964??????"/>
+ </sccpAddress>
+<id value="1586"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84965??????"/>
+ </sccpAddress>
+<id value="1587"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84966??????"/>
+ </sccpAddress>
+<id value="1588"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84967??????"/>
+ </sccpAddress>
+<id value="1589"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84968??????"/>
+ </sccpAddress>
+<id value="1590"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84969??????"/>
+ </sccpAddress>
+
+	
+	<!--ALL ROUTING ADDRESS-->
+	
+	
+	
+	<id value="2000"/>
+	<sccpAddress pc="2000" ssn="8">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200???"/>
+	</sccpAddress>
+	<id value="2001"/>
+	<sccpAddress pc="2000" ssn="8">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201???"/>
+	</sccpAddress>
+	
+	<id value="2002"/>
+	<sccpAddress pc="2100" ssn="8">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202???"/>
+	</sccpAddress>
+	<id value="2003"/>
+	<sccpAddress pc="2100" ssn="8">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203???"/>
+	</sccpAddress>
+	
+	<id value="2004"/>
+	<sccpAddress pc="1321" ssn="8">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980200???"/>
+	</sccpAddress>
+	<id value="2005"/>
+	<sccpAddress pc="1321" ssn="8">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980201???"/>
+	</sccpAddress>
+	
+	<id value="2006"/>
+	<sccpAddress pc="1322" ssn="8">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980202???"/>
+	</sccpAddress>
+	<id value="2007"/>
+	<sccpAddress pc="1322" ssn="8">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="84980203???"/>
+	</sccpAddress>	
+	<id value="2008"/>
+	<sccpAddress pc="1322" ssn="8">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8498020????"/>
+	</sccpAddress>
+	
+	
+	<id value="2009"/>
+	<sccpAddress pc="2100" ssn="6">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8498???????"/>
+	</sccpAddress>
+	<id value="2010"/>
+	<sccpAddress pc="2000" ssn="6">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8416????????"/>
+	</sccpAddress>
+	<id value="2011"/>
+	<sccpAddress pc="2000" ssn="6">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8497???????"/>
+	</sccpAddress>
+	<id value="2012"/>
+	<sccpAddress pc="2100" ssn="6">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8496???????"/>
+	</sccpAddress>
+	
+	<id value="2013"/>
+	<sccpAddress pc="1321" ssn="6">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8498???????"/>
+	</sccpAddress>
+	<id value="2014"/>
+	<sccpAddress pc="1322" ssn="6">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8416????????"/>
+	</sccpAddress>
+	<id value="2015"/>
+	<sccpAddress pc="1322" ssn="6">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8497???????"/>
+	</sccpAddress>
+	<id value="2016"/>
+	<sccpAddress pc="1321" ssn="6">
+		<ai value="19"/>
+		<gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="8496???????"/>
+	</sccpAddress>
+	
+	 <id value="1091"/>
+ <sccpAddress pc="1322" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="*"/>
+ </sccpAddress>
+ <id value="1591"/>
+ <sccpAddress pc="1321" ssn="6">
+  <ai value="19"/>
+  <gt type="GT0100" tt="0" es="1" np="1" nai="4" digits="*"/>
+ </sccpAddress>
+</routingAddress>
+<longMessageRule/>
+<sap>	
+	<id value="1"/>
+	<value mtp3Id="1" opc="1358" ni="3">
+		<mtp3DestinationMap>
+			<id value="1"/>
+			<value firstDpc="2000" lastDpc="2000" firstSls="0" lastSls="255" slsMask="255"/>
+			<id value="2"/>
+			<value firstDpc="2100" lastDpc="2100" firstSls="0" lastSls="255" slsMask="255"/>
+			
+			<id value="3"/>
+			<value firstDpc="1321" lastDpc="1321" firstSls="0" lastSls="255" slsMask="255"/>
+			<id value="4"/>
+			<value firstDpc="1322" lastDpc="1322" firstSls="0" lastSls="255" slsMask="255"/>
+		</mtp3DestinationMap>
+	</value>
+	<id value="2"/>
+	<value mtp3Id="1" opc="140" ni="3">
+		<mtp3DestinationMap>
+			<id value="1"/>
+			<value firstDpc="141" lastDpc="141" firstSls="0" lastSls="255" slsMask="255"/>
+			<id value="2"/>
+			<value firstDpc="142" lastDpc="142" firstSls="0" lastSls="255" slsMask="255"/>
+			
+			<id value="3"/>
+			<value firstDpc="151" lastDpc="151" firstSls="0" lastSls="255" slsMask="255"/>
+			<id value="4"/>
+			<value firstDpc="152" lastDpc="152" firstSls="0" lastSls="255" slsMask="255"/>
+			
+			<id value="5"/>
+			<value firstDpc="161" lastDpc="161" firstSls="0" lastSls="255" slsMask="255"/>
+			<id value="6"/>
+			<value firstDpc="162" lastDpc="162" firstSls="0" lastSls="255" slsMask="255"/>
+			
+			<id value="7"/>
+			<value firstDpc="301" lastDpc="301" firstSls="0" lastSls="255" slsMask="255"/>
+			<id value="8"/>
+			<value firstDpc="302" lastDpc="302" firstSls="0" lastSls="255" slsMask="255"/>
+			
+			<id value="9"/>
+			<value firstDpc="311" lastDpc="311" firstSls="0" lastSls="255" slsMask="255"/>
+			<id value="10"/>
+			<value firstDpc="312" lastDpc="312" firstSls="0" lastSls="255" slsMask="255"/>
+		</mtp3DestinationMap>
+	</value>
+</sap>

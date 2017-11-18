@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<remoteSsns>
+	<id value="1"/>
+ <value remoteSpc="141" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+<id value="2"/>
+ <value remoteSpc="142" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+<id value="3"/>
+ <value remoteSpc="151" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+<id value="4"/>
+ <value remoteSpc="152" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+<id value="5"/>
+ <value remoteSpc="161" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+<id value="6"/>
+ <value remoteSpc="162" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+<id value="7"/>
+ <value remoteSpc="301" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+<id value="8"/>
+ <value remoteSpc="302" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+<id value="9"/>
+ <value remoteSpc="311" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+<id value="10"/>
+ <value remoteSpc="312" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+
+
+	
+	<id value="17"/>
+	<value remoteSpc="2100" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+	<id value="18"/>
+	<value remoteSpc="2000" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+	<id value="19"/>
+	<value remoteSpc="2100" remoteSsn="6" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+	<id value="20"/>
+	<value remoteSpc="2000" remoteSsn="6" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+	
+	<id value="21"/>
+	<value remoteSpc="1321" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+	<id value="22"/>
+	<value remoteSpc="1322" remoteSsn="8" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+	<id value="23"/>
+	<value remoteSpc="1321" remoteSsn="6" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+	<id value="24"/>
+	<value remoteSpc="1322" remoteSsn="6" remoteSsnFlag="0" markProhibitedWhenSpcResuming="false"/>
+</remoteSsns>
+<remoteSpcs>
+	<id value="1"/>
+	<value remoteSpc="141" remoteSpcFlag="0" mask="0"/>
+	<id value="2"/>
+	<value remoteSpc="142" remoteSpcFlag="0" mask="0"/>
+	
+	<id value="3"/>
+	<value remoteSpc="151" remoteSpcFlag="0" mask="0"/>
+	<id value="4"/>
+	<value remoteSpc="152" remoteSpcFlag="0" mask="0"/>
+	
+	<id value="5"/>
+	<value remoteSpc="161" remoteSpcFlag="0" mask="0"/>
+	<id value="6"/>
+	<value remoteSpc="162" remoteSpcFlag="0" mask="0"/>
+	
+	<id value="7"/>
+	<value remoteSpc="301" remoteSpcFlag="0" mask="0"/>
+	<id value="8"/>
+	<value remoteSpc="302" remoteSpcFlag="0" mask="0"/>
+	
+	<id value="9"/>
+	<value remoteSpc="311" remoteSpcFlag="0" mask="0"/>
+	<id value="10"/>
+	<value remoteSpc="312" remoteSpcFlag="0" mask="0"/>
+	
+	<id value="17"/>
+	<value remoteSpc="2100" remoteSpcFlag="0" mask="0"/>
+	<id value="18"/>
+	<value remoteSpc="2000" remoteSpcFlag="0" mask="0"/>
+	
+	<id value="19"/>
+	<value remoteSpc="1321" remoteSpcFlag="0" mask="0"/>
+	<id value="20"/>
+	<value remoteSpc="1322" remoteSpcFlag="0" mask="0"/>
+</remoteSpcs>
+<concernedSpcs/>
